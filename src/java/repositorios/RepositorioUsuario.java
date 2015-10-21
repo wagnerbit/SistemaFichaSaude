@@ -1,5 +1,6 @@
 package repositorios;
 
+import base.Usuario;
 import java.security.MessageDigest;
 import java.sql.*;
 
@@ -85,5 +86,9 @@ public class RepositorioUsuario extends DAO {
             }
         }
         return false;
+    }
+
+    public void adicionarUsuario(Usuario usuario) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }

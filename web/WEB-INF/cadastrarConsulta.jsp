@@ -12,7 +12,7 @@
     <head>
         <!--META-->
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>Cadastro Form</title>
+        <title>Cadastrar Consulta</title>
 
         <!--STYLESHEETS-->
         <link href="css/style.css" rel="stylesheet" type="text/css" />
